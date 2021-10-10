@@ -1,23 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "..\\..\\Krish_naik"
-		},
-		{
-			"name": "K-NEarest-Neighbor",
-			"path": "..\\..\\Krish_naik\\K-NEarest-Neighbor"
-		},
-		{
-			"name": "Handle-Imbalanced-Dataset",
-			"path": "..\\..\\Krish_naik\\Handle-Imbalanced-Dataset"
-		},
-		{
-			"name": "Hyperparameter-Optimization",
-			"path": "..\\..\\Krish_naik\\Hyperparameter-Optimization"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
