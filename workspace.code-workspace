@@ -3,5 +3,9 @@
         {
             "path": "."
         }
-    ]
+    ],
+    "settings": {
+        "python.condaPath": "C:\\Users\\595244\\Anaconda3\\envs\\",
+        "python.envFile": "C:\\Users\\595244\\Anaconda3\\envs\\krish_env"
+    }
 }
