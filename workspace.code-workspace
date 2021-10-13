@@ -1,11 +1,15 @@
 {
-    "folders": [
-        {
-            "path": "."
-        }
-    ],
-    "settings": {
-        "python.condaPath": "C:\\Users\\595244\\Anaconda3\\envs\\",
-        "python.envFile": "C:\\Users\\595244\\Anaconda3\\envs\\krish_env"
+  "folders": [
+    {
+      "path": "."
     }
+  ],
+  "settings": {
+    "python.condaPath": "C:\\Users\\595244\\Anaconda3\\envs\\",
+    "python.envFile": "C:\\Users\\595244\\Anaconda3\\envs\\krish_env",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+    }
+  }
 }
